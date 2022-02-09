@@ -1,0 +1,19 @@
+INFO  | 2021-10-23 16:00:12 | [main] testCases.LoginPageTest (LoginPageTest.java:17) - Username entered
+INFO  | 2021-10-23 16:00:12 | [main] testCases.LoginPageTest (LoginPageTest.java:19) - password entered
+INFO  | 2021-10-23 16:00:16 | [main] testCases.LoginPageTest (LoginPageTest.java:21) - Login btn clicked successfully
+INFO  | 2021-10-23 16:00:16 | [main] testCases.LoginPageTest (LoginPageTest.java:25) - Title validated successfully.
+INFO  | 2021-10-23 16:00:17 | [main] utilities.BaseClass (BaseClass.java:62) - Browser closed
+DEBUG | 2021-10-23 16:00:17 | [main] utilities.BaseClass (BaseClass.java:63) - ---------------------------------------------------
+DEBUG | 2021-10-23 16:56:53 | [main] utilities.BaseClass (BaseClass.java:37) - ---------------------------------------------------
+INFO  | 2021-10-23 16:56:56 | [main] utilities.BaseClass (BaseClass.java:42) - Driver is initialized
+INFO  | 2021-10-23 16:57:01 | [main] utilities.BaseClass (BaseClass.java:56) - URL opened
+INFO  | 2021-10-23 16:57:01 | [main] appModules.SignIn_Action (SignIn_Action.java:18) - Username entered
+INFO  | 2021-10-23 16:57:01 | [main] appModules.SignIn_Action (SignIn_Action.java:20) - password entered
+INFO  | 2021-10-23 16:57:06 | [main] appModules.SignIn_Action (SignIn_Action.java:22) - Login btn clicked successfully
+INFO  | 2021-10-23 16:57:06 | [main] testCases.LoginPageTest (LoginPageTest.java:22) - Title validated successfully.
+INFO  | 2021-10-23 16:57:06 | [main] utilities.BaseClass (BaseClass.java:62) - Browser closed
+DEBUG | 2021-10-23 16:57:06 | [main] utilities.BaseClass (BaseClass.java:63) - ---------------------------------------------------
+DEBUG | 2021-10-26 11:46:50 | [main] utilities.BaseClass (BaseClass.java:37) - ---------------------------------------------------
+INFO  | 2021-10-26 11:46:54 | [main] utilities.BaseClass (BaseClass.java:42) - Driver is initialized
+INFO  | 2021-10-26 11:46:59 | [main] utilities.BaseClass (BaseClass.java:56) - URL opened
+INFO  | 2021-10-26 11:46:59 | [main] appModules.SignIn_Action (SignIn_Action.java:18) - Username entered

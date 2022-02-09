@@ -1,0 +1,19 @@
+INFO  | 2021-10-23 15:57:29 | [main] utilities.BaseClass (BaseClass.java:56) - URL opened
+INFO  | 2021-10-23 15:57:30 | [main] testCases.LoginPageTest (LoginPageTest.java:17) - Username entered
+INFO  | 2021-10-23 15:57:30 | [main] testCases.LoginPageTest (LoginPageTest.java:19) - password entered
+INFO  | 2021-10-23 15:57:36 | [main] testCases.LoginPageTest (LoginPageTest.java:21) - Login btn clicked successfully
+INFO  | 2021-10-23 15:57:37 | [main] testCases.LoginPageTest (LoginPageTest.java:25) - Title validated successfully.
+INFO  | 2021-10-23 15:57:41 | [main] utilities.BaseClass (BaseClass.java:62) - Browser closed
+DEBUG | 2021-10-23 15:57:41 | [main] utilities.BaseClass (BaseClass.java:63) - ---------------------------------------------------
+DEBUG | 2021-10-23 15:58:03 | [main] utilities.BaseClass (BaseClass.java:37) - ---------------------------------------------------
+INFO  | 2021-10-23 15:58:08 | [main] utilities.BaseClass (BaseClass.java:42) - Driver is initialized
+INFO  | 2021-10-23 15:58:12 | [main] utilities.BaseClass (BaseClass.java:56) - URL opened
+INFO  | 2021-10-23 15:58:13 | [main] testCases.LoginPageTest (LoginPageTest.java:17) - Username entered
+INFO  | 2021-10-23 15:58:13 | [main] testCases.LoginPageTest (LoginPageTest.java:19) - password entered
+INFO  | 2021-10-23 15:58:16 | [main] testCases.LoginPageTest (LoginPageTest.java:21) - Login btn clicked successfully
+INFO  | 2021-10-23 15:58:16 | [main] testCases.LoginPageTest (LoginPageTest.java:25) - Title validated successfully.
+INFO  | 2021-10-23 15:58:17 | [main] utilities.BaseClass (BaseClass.java:62) - Browser closed
+DEBUG | 2021-10-23 15:58:17 | [main] utilities.BaseClass (BaseClass.java:63) - ---------------------------------------------------
+DEBUG | 2021-10-23 16:00:02 | [main] utilities.BaseClass (BaseClass.java:37) - ---------------------------------------------------
+INFO  | 2021-10-23 16:00:06 | [main] utilities.BaseClass (BaseClass.java:42) - Driver is initialized
+INFO  | 2021-10-23 16:00:11 | [main] utilities.BaseClass (BaseClass.java:56) - URL opened

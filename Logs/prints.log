@@ -1,0 +1,7 @@
+INFO  | 2021-10-29 19:53:45 | [main] testCases.AddUser (AddUser.java:66) - password entered
+INFO  | 2021-10-29 19:53:45 | [main] testCases.AddUser (AddUser.java:68) - confirm password entered
+INFO  | 2021-10-29 19:53:45 | [main] testCases.AddUser (AddUser.java:72) - password strength is Strongest,
+INFO  | 2021-10-29 19:53:48 | [main] testCases.AddUser (AddUser.java:76) - confirm password entered
+INFO  | 2021-10-29 19:53:51 | [main] testCases.AddUser (AddUser.java:82) - user added successfully
+INFO  | 2021-10-29 19:53:55 | [main] utilities.BaseClass (BaseClass.java:63) - Browser closed
+DEBUG | 2021-10-29 19:53:55 | [main] utilities.BaseClass (BaseClass.java:64) - ---------------------------------------------------
