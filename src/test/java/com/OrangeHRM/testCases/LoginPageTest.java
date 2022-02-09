@@ -14,6 +14,7 @@ public class LoginPageTest extends BaseClass {
 
 	@Test
 	public void TC01_LoginTest() {
+		log.info("Login test started by tester 2 successfully.");
 		SignIn_Action.Execute(driver,userName, password);
 		try {
 			if(driver.getTitle().equals("OrangeHRM")) {
