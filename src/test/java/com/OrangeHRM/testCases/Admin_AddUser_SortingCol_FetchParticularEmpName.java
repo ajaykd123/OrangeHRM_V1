@@ -39,6 +39,7 @@ public class Admin_AddUser_SortingCol_FetchParticularEmpName extends BaseClass {
 			log.info("By default 'ESS' was selected, clicked 'Admin'.");
 		}else {
 			log.info("By default 'Admin' selected.");
+			log.info("By default 'Admin' selected.");
 		}
 		
 		ad.getAddUser_EmployeeName().sendKeys(Constant.AddUser_EmpName_Input);
